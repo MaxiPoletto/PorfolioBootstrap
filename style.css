@@ -1,0 +1,74 @@
+.back{
+    background-color: #040413;
+}
+.navtext{
+    color:black;
+}
+.sectext{
+    color:#a1483b
+}
+.principaltext{
+    color: white;
+}
+.navstyle{
+    background-color: white;
+}
+.mainstyle{
+    height: 40em !important;
+}
+
+.texthover:hover{
+    color:white !important; 
+}
+.imgprop{
+    width: 4em;
+}
+.texthovertwo:hover{
+    color:#a1483b !important; 
+}
+
+.button{
+    width: 3.5em;
+    margin-left: auto !important;
+}
+
+.down{
+    width: 5em;
+    height: 2.5em;
+    background-color:#a1483b;
+}
+.down:hover{
+    background-color: white;
+    transition: all 1s ease;
+   
+}
+.imgtam{
+    width: 1em;
+}
+.imgpages{
+    width: 40%;
+}
+
+.buttoncolor{
+    background-color: #a1483b;
+}
+.bg{
+    background-color: white;
+}
+
+.btn{
+    color: black !important;
+}
+.btn:hover{
+    transition: all 1s ease;
+   
+}
+.divsep{
+    border-bottom:2px solid white;
+}
+.divbor{
+    border:5px solid white;
+    border-radius: 2.5%;
+}
+
+
