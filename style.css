@@ -71,4 +71,7 @@
     border-radius: 2.5%;
 }
 
-
+.bg1:hover{
+    background-color: #a1483b;
+    color:#040413 !important;
+}
